@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/sample.dir/Hla.cpp.o  -o sample 

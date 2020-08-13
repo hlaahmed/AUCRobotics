@@ -1,0 +1,3 @@
+/home/hla/Desktop/sample/CMakeFiles/rebuild_cache.dir
+/home/hla/Desktop/sample/CMakeFiles/sample.dir
+/home/hla/Desktop/sample/CMakeFiles/edit_cache.dir
