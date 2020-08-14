@@ -25,7 +25,7 @@ bool handle_drive_request(ball_chaser::DriveToTarget::Request& req,
 int main(int argc, char** argv)
 {
     // Initialize a ROS node
-    ros::init(argc, argv, "drive_bot");
+    ros::init(argc, argv, "drive_bot") ;
 
     // Create a ROS NodeHandle object
     ros::NodeHandle n;
